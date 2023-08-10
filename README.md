@@ -1,7 +1,7 @@
 ## Olá! eu sou o Júnior Oliveira 👋
 
 
-- 🔭 Hoje trabalho com Analise de sistemas
+- 🔭 Desenvolvedor Mobile 
 - 🌱 Formado em Analise e desenvolvimento de sistemas
 
 <div align="center">
