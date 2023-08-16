@@ -1,7 +1,7 @@
 ## Olá! eu sou o Júnior Oliveira 👋
 
 
-- 🔭 Desenvolvedor Mobile 
+- 🔭 Desenvolvedor Back-end
 - 🌱 Formado em Analise e desenvolvimento de sistemas
 
 <div align="center">
