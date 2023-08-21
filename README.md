@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor Mobile
-- 🌱 Formado em Analise e desenvolvimento de sistemas
+- 🌱 Formado em Analise e desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://github.com/junioroliveiraa">
